@@ -1,12 +1,12 @@
 // 1. TABLE PRINT KARE
 
-/*
-let table= +prompt("Enter a number for table");
-for(let i = 1; i<=10; i++){
-    console.log(`${i} * ${table} = ${i*table} `)
-}
 
-*/
+// let table= +prompt("Enter a number for table");
+// for(let i = 1; i<=10; i++){
+//     console.log(`${table} *  ${i}= ${i*table} `)
+// }
+
+
 
 
 
@@ -50,11 +50,11 @@ for(let i = 1; i<=10; i++){
 // console.log(`Reverse of the String is `+reverseString)
 
 //Factorial
-let number = +prompt("Please enter a number to find the factorial");
-let result =1;
-for (let i=number; i>1; i--){
-    result *=i;
-}
-console.log(`The factorial of ${number} :`+ result);
+// let number = +prompt("Please enter a number to find the factorial");
+// let result =1;
+// for (let i=number; i>1; i--){
+//     result *=i;
+// }
+// console.log(`The factorial of ${number} :`+ result);
 
 
